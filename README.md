@@ -1,2 +1,2 @@
-# Curso Javscript Rocketseat
+# Curso Javascript Rocketseat
 # Funamentos Javascript
